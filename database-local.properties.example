@@ -1,0 +1,5 @@
+# Copie para database-local.properties e informe a senha do seu PostgreSQL.
+# O arquivo database-local.properties fica fora do Git.
+spring.datasource.url=jdbc:postgresql://localhost:5432/loja
+spring.datasource.username=postgres
+spring.datasource.password=COLOQUE_SUA_SENHA_LOCAL
